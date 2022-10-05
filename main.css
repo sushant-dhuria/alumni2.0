@@ -2,23 +2,9 @@
 .footer{
     font-family: 'Inter', sans-serif;
     background-color:  #f9f9f9 !important;
-    background-image: url(./images/low-poly-white-background-design_1017-33204.webp);
+    background-image: url(./images/footer_back_alumni.webp);
     background-size: cover;
 }
-
-.bg-color {
-    background-color: white;
-}
-
-.bg-color-1 {
-    background-color: rgb(42, 120, 193);
-}
-
-.bg-accent {
-   --tw-bg-opacity: 1;
-   background-color: hsl(201 96% 32% / var(--tw-bg-opacity));
- }
-
 @media  only screen and (max-width:1050px) {
     .eventsbox{
         display: flex;
@@ -75,3 +61,11 @@
       
       
       }
+
+ 
+      #background-nitj{
+        background: url('./images/nitj-alumni-background.jpg');
+        background-size: cover;
+        
+      }
+  
