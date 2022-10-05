@@ -64,7 +64,7 @@
 
  
       #background-nitj{
-        background: url('/images/nitj-alumni-background.jpg');
+        background: url('./images/nitj-alumni-background.jpg');
         background-size: cover;
         
       }
