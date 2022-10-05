@@ -2,7 +2,7 @@
 .footer{
     font-family: 'Inter', sans-serif;
     background-color:  #f9f9f9 !important;
-    background-image: url(./images/footer_back_alumni.webp);
+    background-image: url('/images/footer_back_alumni.webp');
     background-size: cover;
 }
 @media  only screen and (max-width:1050px) {
@@ -64,7 +64,7 @@
 
  
       #background-nitj{
-        background: url('./images/nitj-alumni-background.jpg');
+        background: url('/images/nitj-alumni-background.jpg');
         background-size: cover;
         
       }
